@@ -1,3 +1,0 @@
-# GettingStarted
-bleh
-asdf
